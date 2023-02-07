@@ -1,0 +1,52 @@
+MRBTS,Cell ID,Hub / Child,NMS,Vendor,Primary IPSEC Gateway,Primary Gateway IP,Primary - NEW IKE TEP,Secondary IPSEC Gateway,Secondary Gateway IP,Secondary - NEW IKE TEP
+PLMN-PLMN/MRBTS-16119,10665,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-16121,10669,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-30816,15685,Hub,NetAct R10,Nokia Airscale,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-17450,16647,Child,NetAct R10,Nokia Airscale,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-17634,17819,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-17648,17925,Hub,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18013,19517,Child,NetAct R12,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18459,23459,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18476,23589,Hub,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18483,23705,Hub,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18488,23715,Hub,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18538,24629,Hub,NetAct R12,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18942,29279,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18945,29285,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-18977,29359,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19002,29445,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19006,29455,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19074,29685,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19082,29725,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+#N/A,37859,Child,,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19900,64665,Hub,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19930,64997,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19949,65279,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19963,65335,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-19964,65337,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-20088,66567,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-20109,66925,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-23968,76685,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-21612,94907,Hub,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-21718,95657,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22193,97205,Hub,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22256,97339,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22325,97445,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22368,97509,Child,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22427,97755,Hub,NetAct R10,Nokia Flexi,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22429,97757,Hub,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22439,97819,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-32180,97827,Hub,NetAct R10,Nokia Airscale,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22440,97829,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22473,97869,Hub,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 1 Distributed,10.138.0.225,10.138.7.225,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-22506,97925,Hub,NetAct R10,Nokia Flexi,Glasgow SecGW 1 Distributed,10.138.0.205,10.138.7.205,Manchester SecGW  2 Distributed,10.138.0.211,10.138.7.211
+PLMN-PLMN/MRBTS-31058,15640,Hub,NetAct R10,Nokia Airscale,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-17643,17892,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 2 Distributed,10.138.0.227,10.138.7.227,Birmingham SecGW 1 Distributed,10.138.0.197,10.138.7.197
+PLMN-PLMN/MRBTS-17858,19004,Child,NetAct R12,Nokia Airscale,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-18210,21082,Child,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 2 Distributed,10.138.0.227,10.138.7.227,Birmingham SecGW 1 Distributed,10.138.0.197,10.138.7.197
+PLMN-PLMN/MRBTS-18487,23712,Hub,NetAct R10,Nokia Airscale,Leeds Basinghall SecGW 2 Distributed,10.138.0.227,10.138.7.227,Birmingham SecGW 1 Distributed,10.138.0.197,10.138.7.197
+PLMN-PLMN/MRBTS-18539,24630,Child,NetAct R12,Nokia Flexi,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-18946,29290,Child,NetAct R10,Nokia Airscale,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-18948,29292,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-18961,29320,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
+PLMN-PLMN/MRBTS-18967,29340,Child,NetAct R10,Nokia Flexi,Glasgow SecGW 2 Distributed,10.138.0.207,10.138.7.207,Belfast SecGW 1 Distributed,10.138.0.201,10.138.7.201
